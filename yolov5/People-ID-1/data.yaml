@@ -1,0 +1,5 @@
+names:
+- person
+nc: 1
+train: People-ID-1/train/images
+val: People-ID-1/valid/images
